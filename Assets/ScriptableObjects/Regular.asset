@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c729570b403489b478395c38110f5220, type: 3}
+  m_Name: Regular
+  m_EditorClassIdentifier: 
+  UpObstacle: {fileID: -5360029466289311169, guid: 803122ea19a71d247a27a5cf5f5bbd8b, type: 3}
+  DownObstacle: {fileID: -7699179048855099367, guid: 9357cab43b5dd9e4a883b5e52cca1123, type: 3}
+  Ground: {fileID: -8777495233877027310, guid: e463eac29fc616f498aed67fa4cea285, type: 3}
